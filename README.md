@@ -6,9 +6,9 @@ This repository documents my journey of solving Data Structures and Algorithms p
 
 ## Repository Structure
 
-Topic
-└── Problem
-    ├── README.md
-    ├── brute
-    ├── optimized-brute
+Topic\
+└── Problem\
+    ├── README.md\
+    ├── brute\
+    ├── optimized-brute\
     └── optimal
